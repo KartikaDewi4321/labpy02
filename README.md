@@ -39,6 +39,6 @@ setelah itu saya menggunakan syntax dibawah
 
 dari syntax diatas sehingga saya menghasilkan output
 
-![img](gambar/soallatihan.png)
+![img](gambar/soallatihanoutput.png)
 
 terima kasih
